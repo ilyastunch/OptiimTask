@@ -1,0 +1,238 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-04-22T02:04:32.778Z",
+        "before": [
+          {
+            "result": {
+              "duration": 5405706700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Steps defined in Assignment Task",
+        "description": "",
+        "id": "optiim-ta-assignment;steps-defined-in-assignment-task",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 13793055800,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "\u0027http://www.hepsiburada.com/\u0027 sitesini açılacak ve anasayfanın açıldığını onaylayacak",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027http://www.hepsiburada.com/\u0027",
+                  "offset": 0
+                }
+              ],
+              "location": "step_definitions.AssignmentDefs.sitesini_açılacak_ve_anasayfanın_açıldığını_onaylayacak(java.lang.String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 8981469400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Login ekranını açıp, bir kullanıcı ile login olacak",
+            "match": {
+              "location": "step_definitions.AssignmentDefs.login_ekranını_açıp_bir_kullanıcı_ile_login_olacak()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 11850248400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Ekranın üstündeki Search alanına samsung yazip Ara butonuna tıklayacak",
+            "match": {
+              "location": "step_definitions.AssignmentDefs.ekranın_üstündeki_Search_alanına_samsung_yazip_Ara_butonuna_tıklayacak()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 32259002500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Sol menüden Telefon sonrasında Cep Telefonu tıklayacak",
+            "match": {
+              "location": "step_definitions.AssignmentDefs.sol_menüden_Telefon_sonrasında_Cep_Telefonu_tıklayacak()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 74581600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Gelen sayfada samsung için sonuç bulunduğunu onaylayacak",
+            "match": {
+              "location": "step_definitions.AssignmentDefs.gelen_sayfada_samsung_için_sonuç_bulunduğunu_onaylayacak()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 7946109700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Arama sonuçlarından ikinci sayfaya tıklayacak ve açılan sayfada ikinci sayfanın şu an gösterimde olduğunu onaylayacak",
+            "match": {
+              "location": "step_definitions.AssignmentDefs.arama_sonuçlarından_ikinci_sayfaya_tıklayacak_ve_açılan_sayfada_ikinci_sayfanın_şu_an_gösterimde_olduğunu_onaylayacak()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 7389451100,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Üstten beşinci ürünü tıklayacak",
+            "match": {
+              "location": "step_definitions.AssignmentDefs.üstten_beşinci_ürünü_tıklayacak()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 782516800,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Ürün detayında Beğen butonuna tıklayacak",
+            "match": {
+              "location": "step_definitions.AssignmentDefs.ürün_detayında_Beğen_butonuna_tıklayacak()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 998000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Ürün listenize eklendi. popup kontrolü yapacak",
+            "match": {
+              "location": "step_definitions.AssignmentDefs.ürün_listenize_eklendi_popup_kontrolü_yapacak()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 4212408000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Ekranın en üstündeki hesabım alanında Beğendiklerim tıklayacak",
+            "match": {
+              "location": "step_definitions.AssignmentDefs.ekranın_en_üstündeki_hesabım_alanında_Beğendiklerim_tıklayacak()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 998600,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Açılan sayfada bir önceki sayfada beğendiklerime alınmış ürünün bulunduğunu onaylayacak",
+            "match": {
+              "location": "step_definitions.AssignmentDefs.açılan_sayfada_bir_önceki_sayfada_beğendiklerime_alınmış_ürünün_bulunduğunu_onaylayacak()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 969402600,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Beğendiklerime alınmış ürün bulunup seçilecek ve sepete eklenecek",
+            "match": {
+              "location": "step_definitions.AssignmentDefs.beğendiklerime_alınmış_ürün_bulunup_seçilecek_ve_sepete_eklenecek()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 998800,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Ürün sepete eklendi popup kontrolü yapacak",
+            "match": {
+              "location": "step_definitions.AssignmentDefs.ürün_sepete_eklendi_popup_kontrolü_yapacak()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 1234240000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Sepetim sayfasına gidecek",
+            "match": {
+              "location": "step_definitions.AssignmentDefs.sepetim_sayfasına_gidecek()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 2537438900,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "Sepete eklenen bu ürünün içine girilip Kaldır butonuna basılacak, sepetimden çıkarılacak",
+            "match": {
+              "location": "step_definitions.AssignmentDefs.sepete_eklenen_bu_ürünün_içine_girilip_Kaldır_butonuna_basılacak_sepetimden_çıkarılacak()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 998800,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Bu ürünün artik sepette olmadığını onaylayacak",
+            "match": {
+              "location": "step_definitions.AssignmentDefs.bu_ürünün_artik_sepette_olmadığını_onaylayacak()"
+            },
+            "keyword": "* "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip"
+          }
+        ]
+      }
+    ],
+    "name": "Optiim TA Assignment",
+    "description": "",
+    "id": "optiim-ta-assignment",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/Assignment.feature",
+    "tags": []
+  }
+]
